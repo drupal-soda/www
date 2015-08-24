@@ -37,7 +37,7 @@ Security, easy to use, Open Source, extensible, business ready.
 ### Supporting data connections with
 - TheDataTank
 - Ckan
--
+- Drupal
 
 ### Get started
 ### Screenshots
@@ -55,5 +55,4 @@ Security, easy to use, Open Source, extensible, business ready.
 ### Newsletter
 ### Supported by
 ### Examples & Demos
-
 ### Projects using SODA
