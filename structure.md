@@ -37,7 +37,7 @@ Security, easy to use, Open Source, extensible, business ready.
 ### Supporting data connections with
 - TheDataTank
 - Ckan
-- 
+-
 
 ### Get started
 ### Screenshots
@@ -48,6 +48,9 @@ Security, easy to use, Open Source, extensible, business ready.
 ### Sandbox and playground
 ### Fork on Github
 ### Contribute
+### Maintainers
+###  History
+### Roadmap
 ### Follow us
 ### Newsletter
 ### Supported by
