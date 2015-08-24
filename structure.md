@@ -49,15 +49,16 @@ Security, easy to use, Open Source, extensible, business ready.
 
 ### Menu links
 - Screenshots
-- News and blog
-- Sandbox and playground
-- History
-- Examples & Demos
-- Projects using SODA
-- Documentation
++ News and blog
++ History
++ Examples & Demos (Sandbox and playground)
++ Projects using SODA
++ Documentation
 
 ### Bottom menu links
-- Follow us
+- Twitter
+- Youtube
+- Github
 - Newsletter
 
 ### Icons & call to action
