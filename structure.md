@@ -48,11 +48,10 @@ Security, easy to use, Open Source, extensible, business ready.
 - How it works (Promo video)
 
 ### Menu links
-- Screenshots
++ Screenshots
 + News and blog
-+ History
+- History
 + Examples & Demos (Sandbox and playground)
-+ Projects using SODA
 + Documentation
 
 ### Bottom menu links
