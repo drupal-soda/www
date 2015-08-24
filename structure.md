@@ -34,18 +34,12 @@ Security, easy to use, Open Source, extensible, business ready.
 - Drupal to Drupal connections
 - Direct connections with 3rd party
 
-### Supporting data connections with
-- TheDataTank
-- Ckan
-- Drupal
-
 ### Blocks
-- Contribute
-- REST API
-- HowTo videos
++ REST API
++ HowTo videos
 
 ### Front video
-- How it works (Promo video)
++ How it works (Promo video)
 
 ### Menu links
 + Screenshots
@@ -55,17 +49,20 @@ Security, easy to use, Open Source, extensible, business ready.
 + Documentation
 
 ### Bottom menu links
-- Twitter
-- Youtube
-- Github
-- Newsletter
++ Twitter
++ Youtube
++ Github
++ Newsletter
+- About Drupal and Dries copyright
 
 ### Icons & call to action
-- Get started
-- Fork on Github
++ Get started
++ More on Github
+- Contribute
 - Roadmap
 
 ### Image lists
 - Maintainers
 - Supported by
+- Supporting connections with (Ckan, TheDataTank, Drupal)
 - Projects using SODA
