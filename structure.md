@@ -39,20 +39,33 @@ Security, easy to use, Open Source, extensible, business ready.
 - Ckan
 - Drupal
 
-### Get started
-### Screenshots
-### Documentation
-### REST API
-### HowTo videos
-### News and blog
-### Sandbox and playground
-### Fork on Github
-### Contribute
-### Maintainers
-###  History
-### Roadmap
-### Follow us
-### Newsletter
-### Supported by
-### Examples & Demos
-### Projects using SODA
+### Blocks
+- Contribute
+- REST API
+- HowTo videos
+
+### Front video
+- How it works (Promo video)
+
+### Menu links
+- Screenshots
+- News and blog
+- Sandbox and playground
+- History
+- Examples & Demos
+- Projects using SODA
+- Documentation
+
+### Bottom menu links
+- Follow us
+- Newsletter
+
+### Icons & call to action
+- Get started
+- Fork on Github
+- Roadmap
+
+### Image lists
+- Maintainers
+- Supported by
+- Projects using SODA
