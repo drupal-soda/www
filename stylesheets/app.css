@@ -9439,3 +9439,14 @@ th.hide-for-touch {
     display: none !important;
   }
 }
+/* Custom css for this project */
+/* line 3, ../scss/_custom.scss */
+.basic-tools,
+.advanced-options {
+  padding-top: 4em;
+}
+/* line 6, ../scss/_custom.scss */
+.basic-tools img,
+.advanced-options img {
+  margin-bottom: 2em;
+}
