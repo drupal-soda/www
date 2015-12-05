@@ -9450,3 +9450,13 @@ th.hide-for-touch {
 .advanced-options img {
   margin-bottom: 2em;
 }
+
+/* line 11, ../scss/_custom.scss */
+.center {
+  text-align: center;
+}
+
+/* line 15, ../scss/_custom.scss */
+.align-left {
+  text-align: left;
+}
